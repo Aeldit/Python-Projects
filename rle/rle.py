@@ -1,12 +1,5 @@
 #!/bin/env python3
 
-"""
-@author : Aeldit
-This programs are an implementation of the RLE compression algorithm (both the
-compress and decompress functions).
-It only works with the bases 8, 10 and 16
-"""
-
 import cProfile
 
 
